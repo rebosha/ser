@@ -1,0 +1,12 @@
+{
+  "name": "moj-express-projekt",
+  "version": "1.0.0",
+  "description": "Moja Node.js aplikácia s Express na Render.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
