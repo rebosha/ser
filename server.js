@@ -4,12 +4,12 @@ const port = 3000;
 
 // základná odpoveď pre testovanie
 app.get('/', (req, res) => {
-  res.send('Server funguje!');
+  res.send('Server fungujhkje!');
 });
 
 
 app.listen(3000, () => {
   console.log('Server beží na porte 3000');
-   console.log('Server beží n);
+   console.log('Server beží nkjhkjhk');
 });
 
