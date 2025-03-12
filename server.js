@@ -7,6 +7,8 @@ app.get('/', (req, res) => {
   res.send('Server funguje!');
 });
 
-app.listen(port = 3000, () => {
-  console.log(`Server beží na porte ${port}`);
+
+app.listen(3000, () => {
+  console.log('Server beží na porte 3000');
 });
+
