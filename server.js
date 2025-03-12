@@ -10,5 +10,6 @@ app.get('/', (req, res) => {
 
 app.listen(3000, () => {
   console.log('Server beží na porte 3000');
+   console.log('Server beží n);
 });
 
